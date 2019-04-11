@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/MrJua/Desktop/Practica 3/funciones.h
+
+C:/Users/MrJua/Desktop/Practica 3/main.c
+stdio.h
+-
+stdlib.h
+-
+funciones.h
+C:/Users/MrJua/Desktop/Practica 3/funciones.h
+
